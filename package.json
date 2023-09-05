@@ -88,6 +88,6 @@
     "jest-cli": "^25.1.0",
     "jest-express": "^1.11.0",
     "lint-staged": "^7.3.0",
-    "nodemon": "^1.19.4"
+    "nodemon": "^3.0.1"
   }
 }
